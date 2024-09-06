@@ -1,6 +1,4 @@
 # UNIMAI 2024
-## HACKATHON
-
 Hackathon made with UNIMAI - Università degli Studi di Milano
 
 # Customer Churn Prediction Solution
